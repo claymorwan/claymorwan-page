@@ -1,5 +1,6 @@
 {
   "name": "claymorwan",
+  "homepage": "https://claymorwan.github.io/claymorwan-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

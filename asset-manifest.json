@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/claymorwan-page/static/css/main.f855e6bc.css",
-    "main.js": "/claymorwan-page/static/js/main.2a3fdb9f.js",
+    "main.js": "/claymorwan-page/static/js/main.700fe893.js",
     "static/js/453.27dffb00.chunk.js": "/claymorwan-page/static/js/453.27dffb00.chunk.js",
-    "static/media/logo.svg": "/claymorwan-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.jpg": "/claymorwan-page/static/media/logo.29f6f4a4b68ccaabe36f.jpg",
     "index.html": "/claymorwan-page/index.html",
     "main.f855e6bc.css.map": "/claymorwan-page/static/css/main.f855e6bc.css.map",
-    "main.2a3fdb9f.js.map": "/claymorwan-page/static/js/main.2a3fdb9f.js.map",
+    "main.700fe893.js.map": "/claymorwan-page/static/js/main.700fe893.js.map",
     "453.27dffb00.chunk.js.map": "/claymorwan-page/static/js/453.27dffb00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2a3fdb9f.js"
+    "static/js/main.700fe893.js"
   ]
 }

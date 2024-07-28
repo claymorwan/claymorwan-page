@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+@font-face {
+    font-family: "JetBrainsMono NF";
+    src: url("./ressources/fonts/JetBrainsMonoNLNerdFont-Regular.ttf") format("truetype");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Container {
+    text-align: center;
+    background-color: aqua;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    border-radius: 15px;
+
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.SmallContainer {
+    display: flex;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.column {
+    flex: 50%;
 }
 
-.App-link {
-  color: #61dafb;
+.pfp {
+    display: block;
+    margin-left: 25px;
+
+    width: 125px;
+    height: 125px;
+
+    border-radius: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Titlename {
+    font-family: "JetBrainsMono NF";
+    text-align: right;
+    margin-right: 25px;
+
+}
+
+.Link {
+    background-color: red;
+    text-align: left;
+    font-family: "JetBrainsMono NF";
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.LinkLogo {
+    width: 5%;
+    height: 5%;
+    margin-left: 10px;
 }
